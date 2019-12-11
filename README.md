@@ -2,5 +2,5 @@
 
 ## Administrative Subdivisions of Palestine
 
-![]Palestine.png
+![] (Palestine.png)
 
