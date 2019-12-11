@@ -4,3 +4,6 @@
 
 ![](Palestine.png)
 
+## Population of Palestine's Counties
+
+![](Rplot04.png)
