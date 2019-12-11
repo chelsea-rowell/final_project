@@ -8,7 +8,7 @@
 
 ![](Rplot04.png)
 
-## Access to Healthcare in Palestine
+## Access to Healthcare in Bethlehem and Hebron
 
 ![](project3final.png)
 
