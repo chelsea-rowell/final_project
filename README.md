@@ -10,6 +10,6 @@
 
 ## Access to Healthcare in Palestine
 
-![](project3 final.png)
+![](project3final.png)
 
 
